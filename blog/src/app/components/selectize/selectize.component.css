@@ -1,0 +1,15 @@
+.card-wrapper{
+    position: relative;
+}
+
+.custom-card{
+    position: absolute;
+}
+ul{
+    overflow-y: scroll;
+    height: 200px;
+}
+li{
+    padding: 20px;
+    background-color: #fff;
+}
